@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T11:01:54.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="ysp1GDn9CoUMMAYYJm88" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T11:08:49.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="w_foobZGYJgpS-qlqo4k" version="13.7.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1544" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -257,6 +257,18 @@
         </mxCell>
         <mxCell id="dTw0r9zGj_VwAWBjYPoo-153" value="K-LAB" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1010" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTw0r9zGj_VwAWBjYPoo-154" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;Client (PC)&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTw0r9zGj_VwAWBjYPoo-156" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;Test Manager&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;(Excel)&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTw0r9zGj_VwAWBjYPoo-157" value="Web services&lt;br&gt;REST API" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="293" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dTw0r9zGj_VwAWBjYPoo-158" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;Optional apps&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="193" y="440" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
